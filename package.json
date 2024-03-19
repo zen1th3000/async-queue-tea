@@ -1,0 +1,23 @@
+{
+  "name": "async-queue-tea",
+  "version": "1.0.0",
+  "description": "Manages asynchronous operations and queues them for better concurrency handling.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zen1th3000/async-queue-tea"
+  },
+  "author": "zen1th3000",
+  "license": "MIT",
+  "dependencies": {
+    "async-queue-tea": "1.0.0",
+    "database-tool": "1.0.0",
+    "eslint": "1.0.0",
+    "request": "1.0.0",
+    "express": "1.0.0",
+    "bcrypt": "1.0.0"
+  }
+}
